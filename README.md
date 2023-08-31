@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Oma. I have passion in developing stuffs, coding and a lover of Nature
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Oma. Let's create some magic 🪄
+- 👀 I’m interested in software development and designs
+- 🌱 I’m currently learning coding 
+- 💞️ I’m looking to collaborate on lots of projects 
+- 📫 You can reach me at queentestimony@gmail.com
 
 <!---
 Loveoma21/Loveoma21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
